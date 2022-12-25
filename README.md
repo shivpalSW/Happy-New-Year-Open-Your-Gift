@@ -11,7 +11,7 @@ Happy New Year animated gift using GSAP and JavaScript
 
 ## Live link
 
-https://shivpalSW.github.io/Happy-New-Year-open-your-gift/
+https://shivpalsw.github.io/Happy-New-Year-Open-Your-Gift/
 
 
 ## screenshots
