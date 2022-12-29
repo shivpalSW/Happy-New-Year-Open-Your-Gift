@@ -4,10 +4,10 @@ Happy New Year animated gift using GSAP and JavaScript
 
 ## Technologies used
 
-* 1. HTML
-* 2. CSS
-* 3. GSAP
-* 4. JavaScript
+* HTML
+* CSS
+* GSAP
+* JavaScript
 
 ## Live link
 
