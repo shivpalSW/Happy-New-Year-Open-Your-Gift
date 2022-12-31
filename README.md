@@ -21,10 +21,4 @@ https://shivpalsw.github.io/Happy-New-Year-Open-Your-Gift/
 
 ![haapp](https://user-images.githubusercontent.com/71552773/208091567-6e8f2d66-747f-48f1-a485-3ee7c46684ea.PNG)
 
-
-<<<<<<< HEAD
-
 ©Shivpal Wadkar
-=======
-©Shivpal Wadkar
->>>>>>> 58f63445ad2a341bbe9c421b8b231eaebf753891
