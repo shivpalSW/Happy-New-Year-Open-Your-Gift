@@ -9,7 +9,7 @@ Happy New Year animated gift using GSAP and JavaScript
 * GSAP
 * JavaScript
 
-## Live link
+## Live githubio link
 
 https://shivpalsw.github.io/Happy-New-Year-Open-Your-Gift/
 
